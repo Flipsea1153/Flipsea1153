@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Flipea
-- 👀 I’m interested in Java, JavaScript, node.js, HTML,CSS
-- 🌱 I’m currently learning CyberSecurity and Solodity
+- 👀 I’m interested in Java, JavaScript, node.js, HTML,CSS, web hosting, DevOps, Ui/UX designs, prototyping, design principles, wireframing and interactions 
+- 🌱 I’m currently learning CyberSecurity and Solidity
 - 💞️ I’m looking to collaborate on Every interesting project because i adapt really fast and always hits the ground running
 - 📫 How to reach me .. artbyflipsea@gmail.com
 
